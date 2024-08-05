@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+}
+.heading {
+    background-color: antiquewhite;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.data{
+    background-color: cadetblue;
+}
